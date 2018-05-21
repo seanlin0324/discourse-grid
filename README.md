@@ -1,4 +1,4 @@
-**NOTE: I am not currently supporting this plugin. It may not be working in with the current version of Discourse.**
+Test on 2.0.0.beta10
 
 # Discourse Grid
 
